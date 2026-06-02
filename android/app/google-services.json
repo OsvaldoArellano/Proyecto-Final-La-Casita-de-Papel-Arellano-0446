@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662928781479",
+    "project_id": "lacasitadepapeldb",
+    "storage_bucket": "lacasitadepapeldb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662928781479:android:7f279fa4d228da21c62b82",
+        "android_client_info": {
+          "package_name": "com.example.lacasitadepapel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3UQJo2SwvEx-9RIE5E2vV4apEsN3GORM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
